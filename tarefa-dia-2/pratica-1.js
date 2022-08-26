@@ -1,0 +1,5 @@
+let = nome = "Rafael Rodrigues Gebra"
+let = email = "rafaelrodriguesgebra@gmail.com"
+let = professor = "Thales"
+let = Idade = "34"
+let = Viagens = "O mundo"
